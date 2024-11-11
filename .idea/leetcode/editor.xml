@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/CountSubstringsThatSatisfyKConstraintI.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/doc/content/CountSubstringsThatSatisfyKConstraintI.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3258" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/CountSubstringsThatSatisfyKConstraintI.java" />
+              <option name="titleSlug" value="count-substrings-that-satisfy-k-constraint-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/[3258]统计满足 K 约束的子字符串数量 I.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/doc/content/CountSubstringsThatSatisfyKConstraintI.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3258" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/CountSubstringsThatSatisfyKConstraintI.java" />
+              <option name="titleSlug" value="count-substrings-that-satisfy-k-constraint-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
