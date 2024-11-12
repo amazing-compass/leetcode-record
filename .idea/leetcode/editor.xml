@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/BinarySearch.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/doc/content/BinarySearch.md" />
+              <option name="frontendQuestionId" value="leetcode.cn704" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/BinarySearch.java" />
+              <option name="titleSlug" value="binary-search" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/CountSubstringsThatSatisfyKConstraintI.java">
           <value>
             <LeetcodeEditor>
@@ -11,6 +22,39 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/CountSubstringsThatSatisfyKConstraintI.java" />
               <option name="titleSlug" value="count-substrings-that-satisfy-k-constraint-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/MinimumSizeSubarraySum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/doc/content/MinimumSizeSubarraySum.md" />
+              <option name="frontendQuestionId" value="leetcode.cn209" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/MinimumSizeSubarraySum.java" />
+              <option name="titleSlug" value="minimum-size-subarray-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/RemoveElement.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/doc/content/RemoveElement.md" />
+              <option name="frontendQuestionId" value="leetcode.cn27" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/RemoveElement.java" />
+              <option name="titleSlug" value="remove-element" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/SquaresOfASortedArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/doc/content/SquaresOfASortedArray.md" />
+              <option name="frontendQuestionId" value="leetcode.cn977" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/Iiqian/leetcode/editor/cn/SquaresOfASortedArray.java" />
+              <option name="titleSlug" value="squares-of-a-sorted-array" />
             </LeetcodeEditor>
           </value>
         </entry>

@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <option name="scopesOrder">
+      <list>
+        <option value="All Changed Files" />
+        <option value="Non-Markdown Files" />
+        <option value="Open Files" />
+        <option value="Production" />
+        <option value="Project Files" />
+        <option value="Scratches and Consoles" />
+        <option value="Tests" />
+      </list>
+    </option>
+    <inspection_tool class="InjectionNotApplicable" enabled="true" level="ERROR" enabled_by_default="false">
+      <scope name="Non-Markdown Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="MarkdownIncorrectlyNumberedListItem" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
+    <inspection_tool class="MarkdownLinkDestinationWithSpaces" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
+    <inspection_tool class="MarkdownNoTableBorders" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
+    <inspection_tool class="MarkdownOutdatedTableOfContents" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
+    <inspection_tool class="MarkdownUnresolvedFileReference" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
+    <inspection_tool class="MarkdownUnresolvedHeaderReference" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
+    <inspection_tool class="MarkdownUnresolvedLinkLabel" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
+  </profile>
+</component>
